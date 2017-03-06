@@ -357,7 +357,7 @@ sub map_team_to_appl {
 
         # Fix this
         ($team_name eq "AS_BO") && ($appl_name = "Remedy - IT");
-        ($team_name eq "AS_CC_Web_Tools") && ($appl_name = "Doczine");
+        ($team_name eq "AS_CC_Web_Tools") && ($appl_name = "Doczine");  #I like this code, but project died
         ($team_name eq "AS_Mid_Int") && ($appl_name = "Tuxedo - Watson/RSP");
         ($team_name eq "AS_Int") && ($appl_name = "Tibco - HSO");
         ($team_name eq "AS_Mid") && ($appl_name = "Tuxedo - Watson/RSP");
